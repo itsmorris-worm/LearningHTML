@@ -12,7 +12,7 @@ o	Logged in users see additional header items: “My events”, “Events invite
 THIS IS THE LANDING HOME PAGE
 
 
-![](BookReading/BookReading_HomePage.PNG)
+![](./Images/home.png)
 
 THIS IS HOME PAGE FOR LOGGED IN USERS
 
